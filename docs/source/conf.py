@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Lumache'
+project = 'eQTL Catalogue federated analysis tutorial'
 copyright = '2021, Graziella'
 author = 'Graziella'
 
